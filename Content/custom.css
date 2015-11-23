@@ -5,6 +5,7 @@
 div.panel-body {
 	font-family: Helvetica Neue;
 	font-size: 12px;
+	background-color:#f5f5f5;
 }
 
 .list-group-item:nth-child(even) {
@@ -15,5 +16,13 @@ div.panel-body {
 	background-color: #00B2B2;
 }
 
+li.list-group-item {
+	color: #00B2B2;
+}
+
+div.panel-heading {
+	font-size: 12px;
+	font-weight: bold;
+}
 
 /*# sourceMappingURL=custom.css.map */
